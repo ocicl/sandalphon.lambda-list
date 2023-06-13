@@ -1,0 +1,10 @@
+* sandalphon.lambda-list
+
+CL Lambda list parsing and usage
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Bike/sandalphon.lambda-list.git   |
+| commit  | db240cd  |
+| systems | sandalphon.lambda-list |
+|---------+-------------------------------------------|
+
