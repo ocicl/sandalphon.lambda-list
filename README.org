@@ -7,4 +7,4 @@ CL Lambda list parsing and usage
 | commit  | bb4d557                                                |
 | systems | sandalphon.lambda-list                                 |
 |---------+--------------------------------------------------------|
- 
+  
